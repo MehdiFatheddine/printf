@@ -26,3 +26,4 @@ print_octal.c: File containing a function to print an octal number.
 print_address.c: File containing a function to print a memory address.
 _printf.c: Main file containing the _printf function.
 man_3_printf: Manual page for the _printf function.
+teamwork(MehdiFatheddine, ABDELHAMID HMIDANI)
